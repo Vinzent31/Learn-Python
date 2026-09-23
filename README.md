@@ -9,13 +9,7 @@
 
 ---
 
-## 📌 Daftar Isi
 
-- [Tentang Repository](#-tentang-repository)
-- [Peta Kurikulum](#-peta-kurikulum)
-- [Struktur Folder](#-struktur-folder)
-- [Persiapan & Instalasi](#-persiapan--instalasi)
-- [Lisensi](#-lisensi)
 
 ---
 
@@ -25,8 +19,7 @@ Repository ini berfungsi sebagai jurnal personal untuk mencatat progres, *code s
 
 ### 🛠️ Tech Stack & Tools
 * **Language:** Python 3.x
-* **IDE/Editor:** VS Code / PyCharm / Jupyter Notebook
-* **Key Libraries:** (Tulis library yang kamu gunakan, contoh: `NumPy`, `Pandas`, `Requests`)
+* **IDE/Editor:** VS Code / PyCharm 
 
 ---
 
@@ -34,25 +27,5 @@ Repository ini berfungsi sebagai jurnal personal untuk mencatat progres, *code s
 
 - [x] **Dasar-Dasar Python**
   - [x] Variabel & Tipe Data
-  - [x] Operator & Kondisional (`if`, `elif`, `else`)
-  - [ ] Perulangan (`for`, `while`)
-- [ ] **Struktur Data**
-  - [ ] List, Tuple, Set, & Dictionary
-  - [ ] List Comprehension
-- [ ] **Pemrograman Berorientasi Objek (OOP)**
-  - [ ] Class & Object
-  - [ ] Inheritance & Polymorphism
-- [ ] **Modul & File Handling**
-  - [ ] Read/Write Files (`txt`, `csv`, `json`)
-  - [ ] Virtual Environment (`venv`)
 
----
 
-## 📁 Struktur Folder
-
-```text
-├── 01-basics/            # Dasar-dasar sintaks dan konsep
-├── 02-data-structures/    # Penggunaan struktur data
-├── 03-oop/               # Latihan Pemrograman Berorientasi Objek
-├── 04-projects/          # Mini projects dan skrip terapan
-└── README.md

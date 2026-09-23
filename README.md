@@ -2,18 +2,15 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-
-> Dokumentasi, catatan, dan koleksi latihan pemrogramanku dalam mempelajari bahasa pemograman Python dari dasar hingga tingkat lanjut.
-
----
-
-
+> Documentation, notes, and my collection of programming exercises in learning the Python programming language from basic to advanced levels.
 
 ---
 
-## 💡 Tentang Repository
+---
 
-Repository ini berfungsi sebagai jurnal personal untuk mencatat progres, *code snippets*, tantangan algoritma, serta proyek-proyek kecil yang dibangun menggunakan Python. 
+## 💡 About The Repository
+
+This repository serves as a personal journal to track my progress, code snippets, algorithm challenges, and small projects built using Python.
 
 ### 🛠️ Tech Stack & Tools
 * **Language:** Python 3.x
@@ -21,9 +18,7 @@ Repository ini berfungsi sebagai jurnal personal untuk mencatat progres, *code s
 
 ---
 
-## 🗺️ Peta Kurikulum
+## 🗺️ Learning Roadmap
 
-- [x] **Dasar-Dasar Python**
-  - [x] Variabel & Tipe Data
-
-
+- [x] **Python Basics**
+  - [x] Variables & Data Types

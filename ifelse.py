@@ -1,10 +1,11 @@
 age = int(input("How old are you? "))
 
 if age == 100:
-    print("Veteran perang njir")
+    print("Veteran perang")
 elif age >= 18:
     print("Mantep")
 elif age < 0:
-    print("Belum lahir njir 😹😹")
+    print("Belum lahir")
 else:
     print("Bocil")
+
